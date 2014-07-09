@@ -1,4 +1,8 @@
-
+/*******************
+ * "ASTROLOGICAL
+ *    MADNEZZZZZZZ"
+ *    BY NATHAN
+ *******************/
 
 var prompt = require('sync-prompt').prompt;
 
@@ -131,6 +135,8 @@ else
 /***************
  *IMPROVED CODE*
  ***************/
+
+
 /*
 var dob = prompt('DOB (mm/dd/yyyy): ');
 
